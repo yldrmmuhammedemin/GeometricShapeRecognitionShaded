@@ -1,6 +1,6 @@
 # GeometricShapeRecognitionShaded
 
-An application to detect shaded geometric shapes using OpenCV 
+An application to detect geometric shapes on shaded surface using OpenCV 
 
 ## Limitations
 
@@ -14,4 +14,4 @@ An application to detect shaded geometric shapes using OpenCV
 
 Code in work
 
-<img src="assets/ShadedImage.jpeg" width="400px">
+<img src="assets/ShadedShapes.JPG" width="400px">
